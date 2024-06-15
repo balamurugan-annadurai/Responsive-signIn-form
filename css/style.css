@@ -159,9 +159,6 @@ h1{
         padding: 1rem 3rem;  
         font-size: 1.5rem;
     }
-    .signIn-form{
-        padding: 9rem 1.5rem;
-    }
     h1{
         font-size: 4rem;
         padding-bottom: 40px;
@@ -178,7 +175,7 @@ h1{
 @media screen and (min-width:992px){
     .signIn-form{
         width: 60%;
-        padding: 4rem 1.5rem;
+        padding: 3rem 1.5rem;
 
     }
     h1{
