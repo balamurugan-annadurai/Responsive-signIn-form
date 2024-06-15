@@ -224,4 +224,7 @@ h1{
     .bottom-icons{
         padding:0 1rem;
     }
+    .btn{
+        padding: 10px 20px;
+    }
  }
